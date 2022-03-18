@@ -142,7 +142,7 @@
     }, 
     "LEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
-      "value": "1BVtsOMgBu5Db26YvVPpoQaaMPBe_8WfpDJ0Bav-uekWbnn-Kejfu0VVCcByrXNWYmcPGdq1IboyRQ9m-ZALkiJSShW5BBvyLMtOPW6sKQY1YzRblWhU0t0Y3Z97LhoXe1Ph0Zq4PkcPyW_n_ahwNkQ5DG8bN1jlary7A1PnSC9hNBPHLm4PWrGMBSkcZBu-ovH7UC2iuIqJbuu8vq5YyYxzZxCQ5rDerLWbOIfSmZQJlOxgZyMu83myz2iwbdEsQO8djk74Hl69vKcG_kENBUj_Pfh2_pP9uu6WBWXaGxvWMRR0Q_l7j9SDe0baJkGPgP-PycLUpzJoeMpEOSDnGnkBgazbUmw8="
+      "value": ""
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
