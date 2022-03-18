@@ -30,32 +30,32 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@ANIME_TALKK",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@ANIME_WARZ",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -65,22 +65,22 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://telegra.ph/file/5c9c094eac7dc0562403d.jpg",
       "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://telegra.ph/file/5c9c094eac7dc0562403d.jpg",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://telegra.ph/file/5c9c094eac7dc0562403d.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://telegra.ph/file/5c9c094eac7dc0562403d.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
@@ -90,12 +90,12 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "ᴊᴏɪɴ ᴀɴɪᴍᴇ ᴛᴀʟᴋ @Anime_Talkk .",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/5c9c094eac7dc0562403d.jpg",
       "required": false
     },
     "PM_MSG": {
@@ -105,21 +105,21 @@
     },
     "MAX_FLOOD_IN_PM": {
       "description": "Now U Can Set Custom Flood In DM / PM by default it is 5",
-      "value": "5",
+      "value": "7",
       "required": true
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
-      "value": "",
+      "value": "-1001764367729",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": ""
+      "value": "16575130"
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot full access",
-      "value": "",
+      "value": "1749846103 5041328701 5077460368",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
@@ -134,33 +134,33 @@
       },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": ""
+      "value": "a3da19f8b34b5916e151d06b792f7798"
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": ""
+      "value": "-1001764367729"
     }, 
     "LEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
-      "value": ""
+      "value": "1BVtsOMgBu5Db26YvVPpoQaaMPBe_8WfpDJ0Bav-uekWbnn-Kejfu0VVCcByrXNWYmcPGdq1IboyRQ9m-ZALkiJSShW5BBvyLMtOPW6sKQY1YzRblWhU0t0Y3Z97LhoXe1Ph0Zq4PkcPyW_n_ahwNkQ5DG8bN1jlary7A1PnSC9hNBPHLm4PWrGMBSkcZBu-ovH7UC2iuIqJbuu8vq5YyYxzZxCQ5rDerLWbOIfSmZQJlOxgZyMu83myz2iwbdEsQO8djk74Hl69vKcG_kENBUj_Pfh2_pP9uu6WBWXaGxvWMRR0Q_l7j9SDe0baJkGPgP-PycLUpzJoeMpEOSDnGnkBgazbUmw8="
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "",
+      "value": "7d26f9ef-474e-4f53-bf78-b3ecba076341",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "",
+      "value": "dudhkepille",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": ""
+      "value": "5180101015:AAFk1HX7YydgVpOD0aUe9ebZdUJx0pVTz-s"
     },
     "BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and copy the username of your bot.",
-      "value": ""
+      "value": "@LegendActiveBot"
     },
     "NO_OF_BUTTONS": {
       "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
